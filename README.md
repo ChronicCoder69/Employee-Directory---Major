@@ -1,1 +1,1 @@
-# Employee-Directory---Majori
+# Employee-Directory---Major
